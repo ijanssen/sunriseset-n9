@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DayPage.qml</file>
+        <file>Header.qml</file>
+        <file>HorizontalLine.qml</file>
+        <file>Location.qml</file>
+        <file>main.qml</file>
+        <file>MainPage.qml</file>
+        <file>ZenithSettings.qml</file>
+        <file>RiseSetLine.qml</file>
+    </qresource>
+</RCC>
